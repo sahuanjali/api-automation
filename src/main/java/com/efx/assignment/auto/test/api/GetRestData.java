@@ -2,6 +2,10 @@ package com.efx.assignment.auto.test.api;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
+/**
+*This class help to get employee and delete employee 
+*
+*/
 public class GetRestData {
 	
 	/**
